@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    display: block;
+}
+body{
+    background: #F5F5F5;
+}
+.jiadian{
+    width: 1226px;
+    height: 672px;
+    border: 0;
+    margin: 21px auto;
+    background-color: #F1F1F1;
+}
+.jiadian .title{
+    width: 100%;
+    height: 58px;
+}
+.jiadian .title h1{
+    width: 234px;
+    height: 58px;
+    float: left;
+    text-align: left;
+    background-color: #F5F5F5;
+
+    color: #333;
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 68px;
+}
+.jiadian .title .h2{
+    width: 300px;
+    height: 58px;
+    float: right;
+    background-color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 58px;
+    text-align: center;
+}
+.jiadian .title .h2 .m1{
+    color: #ff6700;
+    border-bottom: 2px solid #ff6700;
+}
+.jiadian .title .h2 .m2{
+    padding-left: 30px;
+    padding-right: 15px;
+}
+.jiadian .title .h2 .m4{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.jiadian .title .h2 .m5{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.jiadian .content{
+    width: 100%;
+    height: 300px;
+}
+.jiadian .content .box{
+    width: 234px;
+    height: 300px;
+    float: left;
+    background-color: #FFFFFF;
+    margin-bottom: 14px;
+    margin-left: 14px;
+}
+.jiadian .content .box1{
+    margin-left: 0;
+}
+.jiadian .content .box2{
+    margin-bottom: 0;
+}
+.jiadian .content .box img{
+    margin: 0 auto;
+}
+.jiadian .content .box h3{
+    line-height: 21px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+.jiadian .content .box h3 a{
+    color: #333333;
+}
+.jiadian .content .box h4{
+    font-weight: lighter;
+    margin: 0 10px 10px;
+    height: 18px;
+    font-size: 12px;
+    color: #B0B0B0;
+    text-align: center;
+}
+.jiadian .content .box h5{
+    line-height: 21px;
+    font-size: 14px;
+    font-weight: lighter;
+    margin: 0 10px 14px;
+    color: #ff6700;
+    text-align: center;
+}
+.tv img{
+    border: 0;
+    margin: 21px auto;
+}
+.jiadian .content .top{
+    width: 234px;
+    height: 93px;
+    padding-top: 50px;
+}
+.jiadian .content .bottom{
+    width: 234px;
+    height: 93px;
+    padding-top: 50px;
+}
+.jiadian .content .left{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.jiadian .content .right{
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+.jiadian .content .bottom .left h3{
+    font-size: 18px;
+    margin: 0 10px 0 30px;
+}
+.jiadian .content .bottom .left h5{
+    font-size: 12px;
+    color: #757575;
+    margin: 0 50px 0 30px;
+}
+.jiadian .content .box3 .top1{
+    height: 20px;
+}

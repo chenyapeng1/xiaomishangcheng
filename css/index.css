@@ -1,0 +1,129 @@
+/*通用选择器：选择所有的元素*/
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    /*清除列表样式*/
+}
+a{
+    text-decoration: none;
+    /*清除a链接下划线*/
+}
+img{
+    display: block;
+    /*将图片转换成块元素*/
+}
+body{
+    background: #F5F5F5;
+}
+.phone{
+    width: 1226px;
+    height: 672px;
+    border: 0;
+    margin: 21px auto;
+}
+.phone .title{
+    width: 100%;
+    height: 58px;
+}
+.phone .title h1{
+    width: 234px;
+    height: 58px;
+    float: left;
+    text-align: left;
+
+    color: #333;
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 68px;
+}
+.phone .title .h2{
+    width: 234px;
+    height: 58px;
+    float: right;
+    color: #424242;
+    font-size: 16px;
+    font-weight: 200;
+    text-align: right;
+    line-height: 68px;
+}
+.phone .content{
+    width: 100%;
+    height: 614px;
+}
+.phone .content .box{
+    width: 234px;
+    height: 260px;
+    background-color: #FFFFFF;
+    float: left;
+    margin-left: 14px;
+    margin-bottom: 14px;
+}
+.phone .content .box img{
+    margin: 0 auto;
+}
+
+.phone .content .box h3 {
+    line-height: 21px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+.phone .content .box h3 a{
+    color: #333333;
+}
+.phone .content .box h4{
+    font-weight: lighter;
+    margin: 0 10px 10px;
+    height: 18px;
+    font-size: 12px;
+    color: #B0B0B0;
+    text-align: center;
+}
+.phone .content .box h5{
+    line-height: 21px;
+    font-size: 14px;
+    font-weight: lighter;
+    margin: 0 10px 14px;
+    color: #ff6700;
+    text-align: center;
+}
+.phone .content .box h5 .h6{
+    margin: 0 10px 14px;
+    color: #b0b0b0;
+    text-align: center;
+    text-decoration: Line-through;
+}
+.phone .content .box1{
+    height: 614px;
+    margin: 0;
+}
+.phone .content .box1 a{
+    display: block;
+    width: 234px;
+    height: 614px;
+}
+.phone .content .box2{
+    margin-bottom: 0;
+}
+.phone .content .box3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.phone .content .box3 .top{
+    margin:0 auto;
+    background-color: #e53935;
+    width: 64px;
+    height: 20px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: #fff;
+}
+.phone .content .box3 .top1{
+    height: 20px;
+}
+.tv img{
+    border: 0;
+    margin: 21px auto;
+}
